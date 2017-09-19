@@ -1,24 +1,16 @@
-# My first cool idea {#slug-one}
+# Audio Wizard {#Majestic Sound}
 
-#### Keywords
 
-yaba, daba, do
+## The Revolution.
 
-## A beginning.
+What makes a pop song popular and successful? What makes any song popular and successful? Songs that are popular are catchy, unique, and tap into the unconscious mind. When you hear a pop song for the first time, you generally know (think Taylor Swift, Justin Bieber, etc). How much significance is placed on the beat, melody, or genre? Audio Wizard looks to discover this relationship and help produce the best music. 
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+## The Art of Sound.
 
-## A middle.
+The first step is to take songs that have been popular for years and dissect the underlying attributes of the song. This could include the underlying tones, the beat, the vocals, instruments, and etc. We would segment our analysis based on one genre at first with the largest data sample. We will find correlations between the songs within that genre and begin to build out a model to predict success for that specific genre.
+The issue we might come into is building songs that sound "generic" or too similar to the last song. In order to combat this, we need to build our algorithm to prevent certain tones to ensure uniqueness. Our method will emphasize the melody or the beat as the primary objective of the song. The voice and notes of the singer will be significant. Too often songs are popular just because they are sung by a mainstream artist who is established with star power. We want to try to minimize this to ensure no matter the song we want a record that will go platinum and be successful. We know that different genres will have different characteristics that make them popular. However, tones and sound can be broken down based on frequency of vibrations. 
+We will also analyze multiple genres and find ways to fuse genres to create new sounds that will galvanize listeners. This is similar to how techno and EDM are now fusing with pop culture to become more mainstream. But to really understand the depths of what makes a song popular, we need to analyze how the brain reacts to different sounds and melodies. Listening to music has the ability to release dopamine, also as known as the feel good feeling, and help listeners. With a large sample set, we can find how a brain will react with certain tones and constructions of music.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+## The Future.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
-
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
-
-## An end.
-
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Audio Wizard looks to help build songs that will be enjoyed by everyone. The goal is to build music in whatever genre to appeal to the masses. Risks will be measured with a proven algorithm to help producers make the best music and it will also eliminate the unnecessary risks associated to an investment into a album production. Music is very subjective and that will be one of the biggest challenges for Audio Wizard. There are so many variables outsidet he production process that can be considered, but we have to start somewhere. Audio Wizard will redefine the bar of making music and build songs that will be celebrated.
