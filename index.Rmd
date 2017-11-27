@@ -24,7 +24,7 @@ Welcome to my page! I am currently using Rstudio to display my ideas. Hope you e
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r hello-benji,echo=FALSE,fig.cap='Audio Wizard!!',fig.align='center'}
-knitr::include_url('https://drive.google.com/open?id=1y6Iq-KsLahJp3F7VV-BgDdLH48IyICyD')
+knitr::include_url('https://drive.google.com/file/d/1y6Iq-KsLahJp3F7VV-BgDdLH48IyICyD/view?usp=sharing')
 ```
 
 ### Abstract of Audio Wizard
