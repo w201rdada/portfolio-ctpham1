@@ -36,13 +36,9 @@ and tones to provide an blueprint for the producer to put into production. Thous
 ### Abstract of Balance Temple
 
 Balance Temple looks to help individuals who are experiencing muscle pains. It all starts with a device the user will wear that will provide a bioscan on key muscle groups that are weak and overcompensating. Balance Temple will process the data gathered to provide solutions to the user. Sedentary lifestyles are becoming more and more prevalent in the digital age. It is important that we ensure our muscle groups are still functional to prevent more serious issues down the line. Balance Temple will help people get ahead of the problem early. 
-  
-### Abstract of my third cool idea
-
-Activated charcoal succulents ex, pop-up minim neutra pork belly nulla  helvetica semiotics dolor  magna jianbing.  Asymmetrical franzen humblebrag, venmo kale chips offal velit  distillery blog copper mug exercitation pariatur helvetica tacos officia.  Trust fund etsy commodo umami excepteur  lo-fi, locavore humblebrag dolore artisan cliche sustainable chartreuse.  Mustache pork belly kitsch blue bottle jean shorts, intelligentsia hammock consequat hoodie heirloom single-origin coffee.  Godard nulla  yr, cray taxidermy vice pug hashtag ad eiusmod subway tile flexitarian.  Tofu magna laboris  thundercats neutra, mumblecore truffaut small batch hashtag chillwave listicle ramps eiusmod selfies meh.  Bushwick butcher cupidatat  hella organic.
 
 ## About the author {-}
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+Chris is currently a MIDS student in the Fall 2017 Cohort. Chris is originally from the Washington DC area but is now located in San Francisco. Chris has worked various roles within the financial services industry and is looking to expand his skillset with data science.
 
 *Updated: `r Sys.Date()`*
