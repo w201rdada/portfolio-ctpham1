@@ -9,11 +9,11 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: yes
       before: |
-        <li><a href="./">Oski Bear</a></li>
+        <li><a href="./">ChrisPham</a></li>
       after: |
-        <li><a href="https://github.com/oskibear" target="blank">GitHub</a></li>
-        <li><a href="https://www.ischool.berkeley.edu/people/oski-bear" target="blank">UC Berkeley</a></li>
-        <li><a href="https://www.linkedin.com/in/oskibear/" target="blank">LinkedIn</a></li>
+        <li><a href="https://github.com/ChrisPham" target="blank">GitHub</a></li>
+        <li><a href="https://www.ischool.berkeley.edu/people/Chris-Pham" target="blank">UC Berkeley</a></li>
+        <li><a href="https://www.linkedin.com/in/ChrisPham/" target="blank">LinkedIn</a></li>
         <li><a href="https://www.wired.com/2013/02/friendster-autopsy/" target="blank">Friendster</a></li>        
     sharing:
       facebook: no
@@ -23,5 +23,5 @@ bookdown::gitbook:
       instapper: no
       vk: no
       all: no
-    edit: https://github.com/w201rdada/portfolio-MYGITHUBUSER/edit/master/%s
+    edit: https://github.com/w201rdada/portfolio-ctpham1/edit/master/%s
     download: null
