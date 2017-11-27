@@ -28,13 +28,13 @@ knitr::include_url('https://drive.google.com/file/d/1y6Iq-KsLahJp3F7VV-BgDdLH48I
 ```
 
 
-### Abstract of Audio Wizard
+### Abstract of Audio Wizard {-}
 
 Audio Wizard looks to help music producers build better music. With the use of data science, Audio Wizard will build beats, melodies,
 and tones to provide an blueprint for the producer to put into production. Thousands of popular songs will be analyzed for various signature tones and will be processed to develop a unique melody that the world has never heard of. Eventually, Audio Wizard will create new genres by fusing different genres. Music will be redefined as we know it with Audio Wizard.
 
 
-### Abstract of Balance Temple
+### Abstract of Balance Temple {-}
 
 Balance Temple looks to help individuals who are experiencing muscle pains. It all starts with a device the user will wear that will provide a bioscan on key muscle groups that are weak and overcompensating. Balance Temple will process the data gathered to provide solutions to the user. Sedentary lifestyles are becoming more and more prevalent in the digital age. It is important that we ensure our muscle groups are still functional to prevent more serious issues down the line. Balance Temple will help people get ahead of the problem early. 
 
